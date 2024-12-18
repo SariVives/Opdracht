@@ -1,0 +1,9 @@
+# gecompileerde bestanden of mappen waar wedie terugvinden
+*.py
+
+# de database zelf
+EX_testdatabase.db
+
+# Verborgen mappen van de virtuele omgeving
+EX_venv
+venv/
